@@ -1,5 +1,5 @@
 {
-  "name": "Send_News_Mail_Project",
+  "name": "Estate_Price",
   "description": "빈 프로세스",
   "main": "Main.xaml",
   "dependencies": {
@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.4.4.0",
-  "projectVersion": "1.0.3",
+  "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -43,7 +43,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "f290e204-8def-4821-b7e6-5f0f13a73c64",
+      "uniqueId": "d49656d3-2244-48d2-9f04-efcd1f830364",
       "input": [],
       "output": []
     }
